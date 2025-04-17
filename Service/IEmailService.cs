@@ -1,6 +1,6 @@
-﻿using LearnAPI.Modal;
+﻿using CoreApi.Modal;
 
-namespace LearnAPI.Service
+namespace CoreApi.Service
 {
     public interface IEmailService
     {

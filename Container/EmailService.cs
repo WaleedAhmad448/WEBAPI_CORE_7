@@ -1,11 +1,11 @@
-﻿using LearnAPI.Modal;
-using LearnAPI.Service;
+﻿using CoreApi.Modal;
+using CoreApi.Service;
 using MailKit.Net.Smtp;
 using MailKit.Security;
 using Microsoft.Extensions.Options;
 using MimeKit;
 
-namespace LearnAPI.Container
+namespace CoreApi.Container
 {
     public class EmailService : IEmailService
     {

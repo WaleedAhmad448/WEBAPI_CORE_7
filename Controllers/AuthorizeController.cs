@@ -1,6 +1,6 @@
-﻿using LearnAPI.Modal;
-using LearnAPI.Repos;
-using LearnAPI.Service;
+﻿using CoreApi.Modal;
+using CoreApi.Repos;
+using CoreApi.Service;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -10,7 +10,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
-namespace LearnAPI.Controllers
+namespace CoreApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

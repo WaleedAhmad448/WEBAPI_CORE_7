@@ -1,4 +1,4 @@
-﻿namespace LearnAPI.Helper
+﻿namespace CoreApi.Helper
 {
     public class APIResponse
     {

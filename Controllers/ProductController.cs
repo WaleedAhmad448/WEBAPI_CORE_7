@@ -1,11 +1,11 @@
-﻿using LearnAPI.Helper;
-using LearnAPI.Repos;
+﻿using CoreApi.Helper;
+using CoreApi.Repos;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.IO;
 
-namespace LearnAPI.Controllers
+namespace CoreApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

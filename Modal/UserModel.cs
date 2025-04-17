@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace LearnAPI.Modal
+namespace CoreApi.Modal
 {
     public class UserModel
     {

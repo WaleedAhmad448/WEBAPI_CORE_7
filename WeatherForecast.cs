@@ -1,4 +1,4 @@
-namespace LearnAPI
+namespace CoreApi
 {
     public class WeatherForecast
     {

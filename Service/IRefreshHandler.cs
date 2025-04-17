@@ -1,4 +1,4 @@
-﻿namespace LearnAPI.Service
+﻿namespace CoreApi.Service
 {
     public interface IRefreshHandler
     {

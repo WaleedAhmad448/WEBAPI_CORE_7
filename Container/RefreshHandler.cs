@@ -1,10 +1,10 @@
-﻿using LearnAPI.Repos;
-using LearnAPI.Repos.Models;
-using LearnAPI.Service;
+﻿using CoreApi.Repos;
+using CoreApi.Repos.Models;
+using CoreApi.Service;
 using Microsoft.EntityFrameworkCore;
 using System.Security.Cryptography;
 
-namespace LearnAPI.Container
+namespace CoreApi.Container
 {
     public class RefreshHandler : IRefreshHandler
     {

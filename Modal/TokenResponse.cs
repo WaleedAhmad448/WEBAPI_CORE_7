@@ -1,4 +1,4 @@
-﻿namespace LearnAPI.Modal
+﻿namespace CoreApi.Modal
 {
     public class TokenResponse
     {

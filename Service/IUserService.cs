@@ -1,7 +1,7 @@
-﻿using LearnAPI.Helper;
-using LearnAPI.Modal;
+﻿using CoreApi.Helper;
+using CoreApi.Modal;
 
-namespace LearnAPI.Service
+namespace CoreApi.Service
 {
     public interface IUserService
     {

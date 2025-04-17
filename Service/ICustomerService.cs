@@ -1,8 +1,8 @@
-﻿using LearnAPI.Helper;
-using LearnAPI.Modal;
-using LearnAPI.Repos.Models;
+﻿using CoreApi.Helper;
+using CoreApi.Modal;
+using CoreApi.Repos.Models;
 
-namespace LearnAPI.Service
+namespace CoreApi.Service
 {
     public interface ICustomerService
     {

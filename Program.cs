@@ -1,10 +1,10 @@
 using AutoMapper;
-using LearnAPI.Container;
-using LearnAPI.Helper;
-using LearnAPI.Modal;
-using LearnAPI.Repos;
-using LearnAPI.Repos.Models;
-using LearnAPI.Service;
+using CoreApi.Container;
+using CoreApi.Helper;
+using CoreApi.Modal;
+using CoreApi.Repos;
+using CoreApi.Repos.Models;
+using CoreApi.Service;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;

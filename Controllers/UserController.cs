@@ -1,9 +1,9 @@
-﻿using LearnAPI.Modal;
-using LearnAPI.Service;
+﻿using CoreApi.Modal;
+using CoreApi.Service;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LearnAPI.Controllers
+namespace CoreApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

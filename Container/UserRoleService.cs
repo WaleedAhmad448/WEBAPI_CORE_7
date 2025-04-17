@@ -1,11 +1,11 @@
-﻿using LearnAPI.Helper;
-using LearnAPI.Modal;
-using LearnAPI.Repos;
-using LearnAPI.Repos.Models;
-using LearnAPI.Service;
+﻿using CoreApi.Helper;
+using CoreApi.Modal;
+using CoreApi.Repos;
+using CoreApi.Repos.Models;
+using CoreApi.Service;
 using Microsoft.EntityFrameworkCore;
 
-namespace LearnAPI.Container
+namespace CoreApi.Container
 {
     public class UserRoleService : IUserRoleServicecs
     {

@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
-using LearnAPI.Modal;
-using LearnAPI.Repos.Models;
+using CoreApi.Modal;
+using CoreApi.Repos.Models;
 
-namespace LearnAPI.Helper
+namespace CoreApi.Helper
 {
     public class AutoMapperHandler:Profile
     {

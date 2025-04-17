@@ -1,6 +1,6 @@
 ﻿using ClosedXML.Excel;
-using LearnAPI.Modal;
-using LearnAPI.Service;
+using CoreApi.Modal;
+using CoreApi.Service;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.RateLimiting;
 using System.Data;
 
-namespace LearnAPI.Controllers
+namespace CoreApi.Controllers
 {
     [Authorize]
     //[DisableCors]

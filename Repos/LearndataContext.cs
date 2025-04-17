@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using LearnAPI.Modal;
-using LearnAPI.Repos.Models;
+using CoreApi.Modal;
+using CoreApi.Repos.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace LearnAPI.Repos;
+namespace CoreApi.Repos;
 
 public partial class LearndataContext : DbContext
 {
